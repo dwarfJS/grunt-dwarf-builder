@@ -1,0 +1,36 @@
+{
+  "name": "grunt-dwarf-builder",
+  "description": "TODO",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dwarfJS/grunt-dwarf-builder",
+  "author": {
+    "name": "Daniel Yang",
+    "email": "miniflycn@justany.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwarfJS/grunt-dwarf-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dwarfJS/grunt-dwarf-builder/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "grunt": "*"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
